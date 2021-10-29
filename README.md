@@ -10,11 +10,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+<p>I am a very curious person, a perfectionist, I always like to be learning something new, I am proactive and I put my heart and commitment to all my life and professional projects.</p>
+
 ```javascript
 const Mariana = {
   pronouns: "she" | "her",
   genre of favorite movies: suspense,
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS]
+  }
  
 ```
 
