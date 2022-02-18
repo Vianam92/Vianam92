@@ -16,7 +16,7 @@
 <p>Me define mi perseverancia y mi determinación para conseguir mis sueños, decir no puedo no es una opción sin antes intentarlo. 
 Estoy deseando esa oportunidad laboral para demostrar toda mi dedicación y compromiso, busco una empresa donde pueda seguir creciendo, aprendiendo y trabajar en equipo. Así que escríbeme 😊️</p>
 
- - <a href="https://vianam92.github.io/Portfolio-Mariana/" Alt="portofolio-Mariana" target="_blanck">Mi Portfolio </a>
+ - <a href="https://vianam92.github.io/Portfolio-Mariana/" Alt="portofolio-Mariana" target="_blank">Mi Portfolio </a>
 
 - 📫 How to reach me **vianarodriguezm@gmail.com**
 
