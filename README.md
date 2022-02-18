@@ -1,6 +1,6 @@
 ![My Post (5)](https://user-images.githubusercontent.com/56805495/139949188-c6dd6624-d303-4e1d-bd3a-c35ba2c3eddf.png)
 <h1 align="center">Hola 👋, soy Mariana</h1>
-<h3 align="center">Una apasionada de la programción</h3>
+<h3 align="center">Una apasionada de la programación</h3>
 
 - 🌱 Actualmente finalice un **BootCamp en Adalab**
 <h3 align="left">Puedes contactar conmigo en:</h3>
