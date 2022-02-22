@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, soy Mariana</h1>
 <h3 align="center">Una apasionada de la programación</h3>
 
-- 🌱 Actualmente finalice un **BootCamp en Adalab**
+- 🌱 Actualmente finalicé un **BootCamp en Adalab**
 <h3 align="left">Puedes contactar conmigo en:</h3>
 </em></p>
 
