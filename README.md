@@ -1,20 +1,20 @@
 ![My Post (5)](https://user-images.githubusercontent.com/56805495/139949188-c6dd6624-d303-4e1d-bd3a-c35ba2c3eddf.png)
-<h1 align="center">Hola 👋, soy Mariana</h1>
-<h3 align="center">Una apasionada de la programación</h3>
+<h1 align="center">Hi 👋, I'm Mariana</h1>
+<h3 align="center">A programming enthusiast</h3>
 
-- 🌱 Actualmente finalicé un **BootCamp en Adalab**
-<h3 align="left">Puedes contactar conmigo en:</h3>
+- 🌱 I currently finished a **BootCamp at Adalab**
+<h3 align="left">You can contact me at:</h3>
 </em></p>
 
 [![Linkedin: Mariana Viana](https://img.shields.io/badge/-mariana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-viana-rodriguez/)](https://www.linkedin.com/in/mariana-viana-rodriguez-19871a195/)
 [![GitHub Vianam92](https://img.shields.io/github/followers/Vianam92?label=follow&style=social)](https://github.com/Vianam92)
 
 
-###  Sobre Mi...  
-<p>Soy cubana, estudie contabilidad y finanzas en Cuba pero al venirme a vivir a España decidí reinventarme como programadora.</p>
-<p>Soy una persona muy curiosa y siempre estoy aprendiendo cosas nuevas. Me gusta de la programación que siempre hay un nuevo reto, algo nuevo que aprender.</p>
-<p>Me define mi perseverancia y mi determinación para conseguir mis sueños, decir no puedo no es una opción sin antes intentarlo. 
-Estoy deseando esa oportunidad laboral para demostrar toda mi dedicación y compromiso, busco una empresa donde pueda seguir creciendo, aprendiendo y trabajar en equipo. Así que escríbeme 😊️</p>
+###  About Me...  
+<p>I am Cuban, I studied accounting and finance in Cuba but when I came to live in Spain I decided to reinvent myself as a programmer.</p>
+<p>I am a very curious person and I am always learning new things. I like about programming that there is always a new challenge, something new to learn.</p>
+<p>I am defined by my perseverance and my determination to achieve my dreams, saying I can't is not an option without first trying.
+I am looking forward to that job opportunity to demonstrate all my dedication and commitment, I am looking for a company where I can continue to grow, learn and work as a team. so write me 😊️</p>
 
  - <a href="https://vianam92.github.io/Portfolio-Mariana/" Alt="portofolio-Mariana" target="_blank" >Mi Portfolio </a>
 
