@@ -16,7 +16,7 @@
 <p>I am defined by my perseverance and my determination to achieve my dreams, saying I can't is not an option without first trying.
 I am looking forward to that job opportunity to demonstrate all my dedication and commitment, I am looking for a company where I can continue to grow, learn and work as a team. so write me 😊️</p>
 
- - <a href="https://vianam92.github.io/Portfolio-Mariana/" Alt="portofolio-Mariana" target="_blank" >Portfolio </a>
+ - <a href="https://portfolio-vianam92.netlify.app/" Alt="portofolio-Mariana" target="_blank" >Portfolio </a>
 
 - 📫 How to reach me **vianarodriguezm@gmail.com**
 
