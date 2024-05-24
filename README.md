@@ -1,9 +1,8 @@
 ![My Post (5)](https://user-images.githubusercontent.com/56805495/139949188-c6dd6624-d303-4e1d-bd3a-c35ba2c3eddf.png)
-<h1 align="center">Hi 👋, I'm Mariana</h1>
-<h3 align="center">A programming enthusiast</h3>
+<h1 align="center">Hola 👋, Me llamo Mariana</h1>
+<h3 align="center">y soy Frontend Developer</h3>
 
-- 🌱 I currently finished a **BootCamp at Adalab**
-<h3 align="left">You can contact me at:</h3>
+<h3 align="left">Puedes contactarme en:</h3>
 </em></p>
 
 [![Linkedin: Mariana Viana](https://img.shields.io/badge/-mariana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-viana-rodriguez/)](https://www.linkedin.com/in/mariana-viana-rodriguez-19871a195/)
@@ -11,12 +10,12 @@
 
 
 ###  About Me...  
-<p>I am Cuban, I studied accounting and finance in Cuba but when I came to live in Spain I decided to reinvent myself as a programmer.</p>
-<p>I am a very curious person and I am always learning new things. I like about programming that there is always a new challenge, something new to learn.</p>
-<p>I am defined by my perseverance and my determination to achieve my dreams, saying I can't is not an option without first trying.
-I am looking forward to that job opportunity to demonstrate all my dedication and commitment, I am looking for a company where I can continue to grow, learn and work as a team. so write me 😊️</p>
+<pSoy programadora front end con casi 2 años en el sector. Mi experiencia ha sido principalmente con Javascript.</p>
+<p>Además he trabajando con typescript, React, Angular, Lit Element, Web Components, Vuejs.</p>
+<p>He realizados testing con jest, testing library and cypress.
+Actualmente estoy en búsqueda activa de empleo. Así que si estás buscando alguien entusiasta, con deseos de superarse y que sepa trabajar en equipo, contactame😊️</p>
 
- - <a href="https://portfolio-vianam92.netlify.app/" Alt="portofolio-Mariana" target="_blank" >Portfolio </a>
+ - <a href="https://portfolio-vianam92.netlify.app/" Alt="portofolio-Mariana" target="_blank" >Portafolio </a>
 
 - 📫 How to reach me **vianarodriguezm@gmail.com**
 
